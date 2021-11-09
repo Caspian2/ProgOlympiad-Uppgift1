@@ -13,7 +13,7 @@ namespace Uppgift_2
             string omvändaString = new string(stringArray);
             
         
-            int wordCount = 0, index = 0;
+            int antalOrd = 0, index = 0;
 
 
             while (index < vanligaString.Length && char.IsWhiteSpace(vanligaString[index]))
@@ -25,7 +25,7 @@ namespace Uppgift_2
             while (index < vanligaString.Length && !char.IsWhiteSpace(vanligaString[index]))
             index++;
 
-            wordCount++;
+            antalOrd++;
 
 
             while (index < vanligaString.Length && char.IsWhiteSpace(vanligaString[index]))
@@ -33,7 +33,7 @@ namespace Uppgift_2
             }
 
             Console.WriteLine($"Svar : {omvändaString} ");
-            Console.WriteLine("Antal ord " + wordCount);
+            Console.WriteLine("Antal ord " + antalOrd);
             Console.ReadLine();
         }  
     }
