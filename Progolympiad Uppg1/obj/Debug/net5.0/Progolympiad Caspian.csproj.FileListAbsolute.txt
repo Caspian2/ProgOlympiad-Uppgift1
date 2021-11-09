@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Progolympiad Caspian\obj\Debug\net5.0\Progolympiad Caspian.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Progolympiad Caspian\obj\Debug\net5.0\Progolympiad Caspian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Progolympiad Caspian\obj\Debug\net5.0\Progolympiad Caspian.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Progolympiad Caspian\obj\Debug\net5.0\Progolympiad Caspian.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Progolympiad Caspian\obj\Debug\net5.0\Progolympiad Caspian.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Progolympiad Caspian\bin\Debug\net5.0\Progolympiad Caspian.exe
+C:\Users\Admin\Desktop\Progolympiad Caspian\bin\Debug\net5.0\Progolympiad Caspian.deps.json
+C:\Users\Admin\Desktop\Progolympiad Caspian\bin\Debug\net5.0\Progolympiad Caspian.runtimeconfig.json
+C:\Users\Admin\Desktop\Progolympiad Caspian\bin\Debug\net5.0\Progolympiad Caspian.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Progolympiad Caspian\bin\Debug\net5.0\Progolympiad Caspian.dll
+C:\Users\Admin\Desktop\Progolympiad Caspian\bin\Debug\net5.0\ref\Progolympiad Caspian.dll
+C:\Users\Admin\Desktop\Progolympiad Caspian\bin\Debug\net5.0\Progolympiad Caspian.pdb
+C:\Users\Admin\Desktop\Progolympiad Caspian\obj\Debug\net5.0\Progolympiad Caspian.dll
+C:\Users\Admin\Desktop\Progolympiad Caspian\obj\Debug\net5.0\ref\Progolympiad Caspian.dll
+C:\Users\Admin\Desktop\Progolympiad Caspian\obj\Debug\net5.0\Progolympiad Caspian.pdb
+C:\Users\Admin\Desktop\Progolympiad Caspian\obj\Debug\net5.0\Progolympiad Caspian.genruntimeconfig.cache
